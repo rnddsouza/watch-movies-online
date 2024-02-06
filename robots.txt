@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://watchmoviessonline.netlify.app/sitemap.xml
